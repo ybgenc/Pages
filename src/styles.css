@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "bootstrap/dist/css/bootstrap.css";
+
+.main{
+    background-color:lemonchiffon;
+    display : flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: orange;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin : 20px
+}
+.page-item{
+    width: 100%;
+}
+
+.imgİ{
+    max-height:850px;
+}
